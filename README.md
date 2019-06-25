@@ -19,7 +19,7 @@ To understand the customer purchase behavior (specifically, purchase amount) aga
 - Purchase: Purchase Amount (Target Variable)
 <br><br>
 ### Result
-- The purchase prediction with a RMSE score = 2429.7891689172
+- The purchase prediction with a RMSE score = 2429.7892
 - Rank 20 out of 13791 participants (0.14%)
 - Leaderboard: https://datahack.analyticsvidhya.com/contest/black-friday/lb
 <br><br>
