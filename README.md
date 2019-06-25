@@ -1,2 +1,27 @@
 # Project-02_Black_Friday_dataset
 Black Friday Sale Prediction (Analytics Vidhya competition)
+<br><br>
+###Problem statement
+To understand the customer purchase behavior (specifically, purchase amount) against various products of different categories, and build a model to predict the purchase amount of customer against various products which will help to create personalized offer for customers against different products.
+<br><br>
+###Attribute information
+- User_ID: User ID
+- Product_ID: Product ID
+- Gender: Sex of User
+- Age: Age in bins
+- Occupation: Occupation (Masked)
+- City_Category: Category of the City (A,B,C)
+- Stay_In_Current_City_Years: Number of years stay in current city
+- Marital_Status: Marital Status
+- Product_Category_1: Product Category (Masked)
+- Product_Category_2: Product may belongs to other category also (Masked)
+- Product_Category_3: Product may belongs to other category also (Masked)
+- Purchase: Purchase Amount (Target Variable)
+<br><br>
+###Result
+- The purchase prediction with a RMSE score = 2429.7891689172
+- Rank 20 out of 13791 participants (0.14%) --Last update: 2018-12-31
+- Leaderboard: https://datahack.analyticsvidhya.com/contest/black-friday/lb
+<br><br>
+###Reference
+https://datahack.analyticsvidhya.com/contest/black-friday/ 
