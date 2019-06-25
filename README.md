@@ -20,7 +20,7 @@ To understand the customer purchase behavior (specifically, purchase amount) aga
 <br><br>
 ### Result
 - The purchase prediction with a RMSE score = 2429.7891689172
-- Rank 20 out of 13791 participants (0.14%) --Last update: 2018-12-31
+- Rank 20 out of 13791 participants (0.14%)
 - Leaderboard: https://datahack.analyticsvidhya.com/contest/black-friday/lb
 <br><br>
 ### Reference
