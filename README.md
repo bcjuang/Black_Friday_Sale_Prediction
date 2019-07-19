@@ -1,11 +1,12 @@
 # Black Friday Sale Prediction
 Black Friday Sale Prediction (Analytics Vidhya competition)
 
-![Photo by Mein Deal on Unsplash](/3DTest.png)
-
 **Use the link below to view with nbviewer:**
 https://nbviewer.jupyter.org/github/bcjuang/Black_Friday_Sale_Prediction/blob/master/Black_Friday_sales_dataset_final.ipynb
-<br><br>
+<br>
+![Photo by Mein Deal on Unsplash](/black_friday_sales_mein-deal-qomXkYpz8AU-unsplash.jpg)
+
+
 ### Problem statement
 To understand the customer purchase behavior (specifically, purchase amount) against various products of different categories, and build a model to predict the purchase amount of customer against various products which will help to create personalized offer for customers against different products.
 <br><br>
