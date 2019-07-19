@@ -4,6 +4,7 @@ Black Friday Sale Prediction (Analytics Vidhya competition)
 **Use the link below to view with nbviewer:**
 https://nbviewer.jupyter.org/github/bcjuang/Black_Friday_Sale_Prediction/blob/master/Black_Friday_sales_dataset_final.ipynb
 <br>
+
 ![Photo by Mein Deal on Unsplash](/black_friday_sales_mein-deal-qomXkYpz8AU-unsplash.jpg)
 
 
