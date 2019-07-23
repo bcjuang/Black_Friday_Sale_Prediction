@@ -3,11 +3,11 @@ Black Friday Sale Prediction (Analytics Vidhya competition)
 
 **Use the link below to view with nbviewer:**
 https://nbviewer.jupyter.org/github/bcjuang/Black_Friday_Sale_Prediction/blob/master/Black_Friday_sales_dataset_final.ipynb
-<br>
-<br>
+
+
 ### Problem statement
 To understand the customer purchase behavior (specifically, purchase amount) against various products of different categories, and build a model to predict the purchase amount of customer against various products which will help to create personalized offer for customers against different products.
-<br>
+
 ### Attribute information
 - User_ID: User ID
 - Product_ID: Product ID
@@ -21,15 +21,14 @@ To understand the customer purchase behavior (specifically, purchase amount) aga
 - Product_Category_2: Product may belongs to other category also (Masked)
 - Product_Category_3: Product may belongs to other category also (Masked)
 - Purchase: Purchase Amount (Target Variable)
-<br>
 
 ### ML model used
 - Neural Network with embedding layers and 4 hidden layers
-<br>
+
 ### Result
 - The purchase prediction with a **RMSE score = 2429.7892**
 - **Ranked 20 out of 13791 participants (top 0.14%)**
 - Leaderboard: https://datahack.analyticsvidhya.com/contest/black-friday/lb
-<br>
+
 ### Reference
 https://datahack.analyticsvidhya.com/contest/black-friday/ 
