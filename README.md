@@ -22,6 +22,10 @@ To understand the customer purchase behavior (specifically, purchase amount) aga
 - Product_Category_3: Product may belongs to other category also (Masked)
 - Purchase: Purchase Amount (Target Variable)
 <br><br>
+
+## ML model used
+- Neural Network with embedding layers and 4 hidden layers
+
 ### Result
 - The purchase prediction with a **RMSE score = 2429.7892**
 - **Ranked 20 out of 13791 participants (top 0.14%)**
