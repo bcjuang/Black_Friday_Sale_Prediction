@@ -7,7 +7,8 @@ https://nbviewer.jupyter.org/github/bcjuang/Black_Friday_Sale_Prediction/blob/ma
 <br>
 ### Problem statement
 To understand the customer purchase behavior (specifically, purchase amount) against various products of different categories, and build a model to predict the purchase amount of customer against various products which will help to create personalized offer for customers against different products.
-<br><br>
+<br>
+<br>
 ### Attribute information
 - User_ID: User ID
 - Product_ID: Product ID
@@ -23,7 +24,7 @@ To understand the customer purchase behavior (specifically, purchase amount) aga
 - Purchase: Purchase Amount (Target Variable)
 <br><br>
 
-## ML model used
+### ML model used
 - Neural Network with embedding layers and 4 hidden layers
 
 ### Result
