@@ -21,7 +21,7 @@ To understand the customer purchase behavior (specifically, purchase amount) aga
 - Product_Category_3: Product may belongs to other category also (Masked)
 - Purchase: Purchase Amount (Target Variable)
 
-### ML model used
+### Machine learning model
 - Neural Network with embedding layers and 4 hidden layers
 
 ### Result
